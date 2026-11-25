@@ -1,0 +1,6 @@
+{
+  "name": "Crestline Hydro",
+  "description": "AI/ML flash flood prediction and early preparedness dashboard for hilly watersheds integrating rainfall, weather forecasts, terrain elevation, slope, soil moisture, and river gauge telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
